@@ -7,6 +7,8 @@ com
 target
 */target
 */*/target
+src/main/resources/static/npm-debug.log
+src/main/resources/static/node_modules/
 out
 
 # Mobile Tools for Java (J2ME)
